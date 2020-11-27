@@ -1,0 +1,12 @@
+{
+  "name": "yibo-frontend-utils",
+  "version": "1.0.0",
+  "description": "常用工具类",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiwen_chow@163.com",
+  "license": "ISC",
+  "registory": "https://github.com/Zhouxiwen/yibo-frontend-utils.git"
+}
